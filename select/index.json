@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Chandelier",
+  "base_artist": "Will Paquin",
+  "createdAt": "2025-12-02T05:52:46.603751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "A. G. Cook",
+      "has_synced": true,
+      "path": "select/01_Chandelier_A._G._Cook.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chandelier (Acoustic)",
+      "artist": "Skylar Stecker",
+      "has_synced": true,
+      "path": "select/02_Chandelier_(Acoustic)_Skylar_Stecker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chandelier Searchlight",
+      "artist": "Deerhoof",
+      "has_synced": true,
+      "path": "select/03_Chandelier_Searchlight_Deerhoof.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Puddles Pity Party",
+      "has_synced": true,
+      "path": "select/04_Chandelier_Scott_Bradlee's_Postmodern_Jukebox_feat._Puddles_Pity_Party.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Dani Armstrong",
+      "has_synced": true,
+      "path": "select/05_Chandelier_Scott_Bradlee's_Postmodern_Jukebox_feat._Dani_Armstrong.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "Danny Burstein feat. Ricky Rojas, Sahr Ngaujah, Aaron Tveit, Jacqueline B. Arnold, Holly James, Jeigh Madjus & Original Broadway Cast of Moulin Rouge! The Musical",
+      "has_synced": true,
+      "path": "select/06_Chandelier_Danny_Burstein_feat._Ricky_Rojas,_Sahr_Ngaujah,_Aaron_Tveit,_Jacqueline_B._Arnol.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "Danny Burstein, Ricky Rojas, Sahr Ngaujah, Aaron Tveit, Jacqueline B․ Arnold, Holly James, Jeigh Madjus & Original Broadway Cast of Moulin Rouge! The Musical",
+      "has_synced": true,
+      "path": "select/07_Chandelier_Danny_Burstein,_Ricky_Rojas,_Sahr_Ngaujah,_Aaron_Tveit,_Jacqueline_B._Arnold,_Ho.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/08_Chandelier_Sia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "Sematary feat. Ghost Mountain",
+      "has_synced": false,
+      "path": "select/09_Chandelier_Sematary_feat._Ghost_Mountain.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chandelier (feat. Ghost Mountain)",
+      "artist": "Sematary",
+      "has_synced": false,
+      "path": "select/10_Chandelier_(feat._Ghost_Mountain)_Sematary.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chandelier (Cutmore Club Remix)",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/11_Chandelier_(Cutmore_Club_Remix)_Sia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chandelier (Cutmore remix)",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/12_Chandelier_(Cutmore_remix)_Sia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chandelier",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/13_Chandelier_Sia.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chandelier",
+      "artist": "Will Paquin",
+      "has_synced": false,
+      "path": "select/pl_01_Chandelier_Will_Paquin.txt"
+    }
+  ]
+}
